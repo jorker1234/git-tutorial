@@ -1,3 +1,2 @@
 New Text
 - Update to github
-- Update from origin
